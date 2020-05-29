@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Foreground Service</string>
+    <string name="purpose1">Start a Foreground Service using BroadCastReceiver and Timer to call a method continuously at an interval</string>
+    <string name="purpose2">Start a JobService to call a method continuously at an interval</string>
+    <string name="default_msg">No msg came from Service!</string>
+    <string name="srvice_stop">Service stopped!</string>
+    <string name="stt_srvc">start service</string>
+    <string name="stp_srvc">stop service</string>
+    <string name="next_act">GoTo Next Activity</string>
+    <string name="stt_job">start job</string>
+    <string name="stp_job">stop job</string>
+    <string name="job_srvc">Job Service</string>
+</resources>
